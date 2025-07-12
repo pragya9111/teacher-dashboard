@@ -47,6 +47,12 @@ A modern teacher management dashboard built with **Next.js**, **Redux Toolkit**,
 
 ---
 
+## Live Preview
+
+Check out the live version of the project! [View Live Demo](https://teacher-dashboard-topaz-two.vercel.app/).
+
+---
+
 ## 📚 Learn More
 
 - [Next.js Documentation](https://nextjs.org/docs)
