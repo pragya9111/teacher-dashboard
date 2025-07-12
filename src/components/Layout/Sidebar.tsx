@@ -13,7 +13,7 @@ export default function Sidebar() {
   ]
 
   return (
-    <div className="w-64 bg-purple-700 text-white flex flex-col">
+    <div className="w-64 h-full bg-purple-700 text-white flex flex-col">
       <div className="text-2xl font-bold p-6">TeacherMS</div>
       <nav className="flex-1">
         {links.map(link => (
